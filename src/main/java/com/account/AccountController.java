@@ -9,6 +9,10 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.account.data.Account;
+import com.account.data.AccountOperation;
+import com.account.data.Status;
+
 @RestController
 public class AccountController {
 

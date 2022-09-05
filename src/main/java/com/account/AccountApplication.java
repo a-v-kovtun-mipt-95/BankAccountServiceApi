@@ -7,6 +7,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
+import com.account.data.AccountBuilder;
+import com.account.data.Status;
+
 @SpringBootApplication
 public class AccountApplication {
 
